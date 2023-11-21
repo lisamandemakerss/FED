@@ -22,8 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
-  responsive
+  Responsive
  
 </details>
 
@@ -37,11 +36,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  <a href="https://squareup.com/us/en/home/a3hb8">Square Up</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home page
+  <img src="readme-images/lange-pagina.png" width="375px" alt="Lange afbeelding van de homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
